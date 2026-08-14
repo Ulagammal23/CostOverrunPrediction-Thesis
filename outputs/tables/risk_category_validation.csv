@@ -1,0 +1,7 @@
+risk_category,Total_Projects,Actual_Overrun_Rate,Model
+Low Risk (<30%),9,0.8888888888888888,Model A
+Medium Risk (30–60%),41,0.9024390243902439,Model A
+High Risk (>60%),100,0.8,Model A
+Low Risk (<30%),6,1.0,Model B
+Medium Risk (30–60%),10,0.7,Model B
+High Risk (>60%),134,0.835820895522388,Model B

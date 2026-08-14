@@ -1,0 +1,39 @@
+Feature,Mean Absolute SHAP,Model
+Cost_per_Day,0.4645179557413577,Model A
+Planned_Duration,0.42814411055873686,Model A
+Planned_Cost_log,0.32502706821577654,Model A
+Planned_Cost,0.24947309156239159,Model A
+Project_Type_Bridge,0.13334021952707356,Model A
+Location_New York,0.10352055076691616,Model A
+Project_Type_Building,0.0814811520852158,Model A
+Duration_Category_Medium,0.08099510278232654,Model A
+Location_Houston,0.07609528146916406,Model A
+Location_Seattle,0.07523595334600566,Model A
+Location_Los Angeles,0.07338308341767477,Model A
+Project_Type_Tunnel,0.05352390846586055,Model A
+Location_Chicago,0.05214660759298147,Model A
+Project_Type_Road,0.05147927371343615,Model A
+Project_Type_Dam,0.046074902343153576,Model A
+Duration_Category_Short,0.042598409031231216,Model A
+Duration_Category_Long,0.012421178233071827,Model A
+Planned_Duration,0.5092734672001953,Model B
+Cost_per_Day,0.4494398375296331,Model B
+nonresidential_construction_spending,0.44249201986352754,Model B
+construction_pct_change,0.430208320270672,Model B
+Planned_Cost,0.3956432662256439,Model B
+Planned_Cost_log,0.3736307058403701,Model B
+total_construction_spending,0.3458882109749318,Model B
+residential_construction_spending,0.2584761731586305,Model B
+Location_New York,0.25558291567355584,Model B
+Project_Type_Bridge,0.19819424401663893,Model B
+Project_Type_Building,0.1975943326270993,Model B
+Location_Chicago,0.1789127648478821,Model B
+Location_Seattle,0.16752345460145251,Model B
+Duration_Category_Medium,0.16722224414055514,Model B
+Project_Type_Road,0.1467178451306781,Model B
+Location_Los Angeles,0.1414482616154675,Model B
+Project_Type_Dam,0.10306060351804608,Model B
+Project_Type_Tunnel,0.10134498869043673,Model B
+Location_Houston,0.0847717460073618,Model B
+Duration_Category_Long,0.08266819887218663,Model B
+Duration_Category_Short,0.018214465920342246,Model B
