@@ -1,0 +1,20 @@
+
+Workflow Execution Log
+
+Best Selected Model A: CatBoost
+Best Selected Model B: CatBoost
+
+Number of Test Projects: 150
+Class Balance: {1: 125, 0: 25}
+
+Saved Artifacts:
+- Trained models
+- Metric tables
+- ROC curves
+- Confusion matrices
+- SHAP summary plots
+- SHAP dependence plots
+- SHAP local explanations
+- Precision-recall curves
+- Calibration curves
+- Risk category validation
